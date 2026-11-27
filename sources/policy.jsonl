@@ -1,0 +1,7 @@
+{"seq":9,"app":"office","revision":14,"rule":"shared-export","role":"staff","action":"export","grant_scope":["east","west"],"group":"old-shared"}
+{"seq":10,"app":"office","revision":14,"rule":"jur-query","role":"query","action":"read","grant_scope":["assigned"],"group":"daily"}
+{"seq":11,"app":"office","revision":14,"rule":"review-access","role":"review","action":"approve","grant_scope":["assigned"],"group":"daily"}
+{"seq":13,"app":"office","revision":15,"rule":"disable-shared","role":"staff","action":"export","grant_scope":[],"group":"repair-1"}
+{"seq":14,"app":"office","revision":15,"rule":"cross-unit","role":"review","action":"approve","grant_scope":["joint"],"group":"repair-1"}
+{"seq":15,"app":"office","revision":15,"rule":"exclude-submitter","role":"review","action":"approve","grant_scope":["no-self"],"group":"repair-1"}
+{"seq":21,"app":"office","revision":16,"rule":"maint-admin","role":"staff","action":"read","grant_scope":["west"],"group":"external-change"}

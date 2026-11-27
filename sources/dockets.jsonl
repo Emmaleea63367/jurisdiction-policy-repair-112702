@@ -1,0 +1,4 @@
+{"seq":6,"bundle":"bun-7","policy_rev":14,"lead":"east","joint":["east","west"],"stage":"pending-approval","requester":"p1"}
+{"seq":7,"bundle":"bun-8","policy_rev":14,"lead":"east","joint":["east"],"stage":"handling","requester":"p2"}
+{"seq":8,"bundle":"bun-9","policy_rev":14,"lead":"west","joint":null,"stage":"pending-approval","requester":"p1"}
+{"seq":20,"bundle":"bun-8","policy_rev":15,"lead":"west","joint":["west"],"stage":"handling","requester":"p2"}

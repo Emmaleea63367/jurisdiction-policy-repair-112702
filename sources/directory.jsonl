@@ -1,0 +1,7 @@
+{"seq":1,"assignment":"du-1","person":"p1","team":"east","roles":["initiate"],"from":0,"until":60}
+{"seq":2,"assignment":"du-2","person":"p1","team":"board","roles":["review"],"from":0,"until":60}
+{"seq":3,"assignment":"du-3","person":"p2","team":"east","roles":["query","review"],"from":0,"until":60}
+{"seq":4,"assignment":"du-4","person":"p3","team":"west","roles":["query","review"],"from":0,"until":60}
+{"seq":5,"assignment":"du-5","person":"p4","team":"west","roles":null,"from":0,"until":60}
+{"seq":18,"assignment":"du-3","person":"p2","team":"east","roles":["query","review"],"from":0,"until":17}
+{"seq":19,"assignment":"du-6","person":"p5","team":"east","roles":["review"],"from":19,"until":70}

@@ -1,0 +1,5 @@
+{"seq":12,"app":"office","revision":14,"person":"p1","bundle":"bun-7","action":"export","allowed":true,"codes":["shared-export"]}
+{"seq":16,"app":"office","revision":14,"person":"p2","bundle":"bun-8","action":"read","allowed":true,"codes":["jur-query"]}
+{"seq":17,"app":"office","revision":14,"person":"p1","bundle":"bun-7","action":"approve","allowed":true,"codes":["review-access"]}
+{"seq":23,"app":"office","revision":15,"person":"p1","bundle":"bun-7","action":"approve","allowed":true,"codes":["cross-unit"]}
+{"seq":25,"app":"office","revision":16,"person":"p3","bundle":"bun-8","action":"read","allowed":true,"codes":["jur-query","maint-admin"]}

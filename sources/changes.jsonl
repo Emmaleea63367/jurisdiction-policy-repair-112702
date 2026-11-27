@@ -1,0 +1,3 @@
+{"seq":22,"change":"ch48","before":14,"after":15,"state":"queued","active":[]}
+{"seq":24,"change":"ch48","before":14,"after":15,"state":"active","active":["cross-unit"]}
+{"seq":26,"change":"manual16","before":15,"after":16,"state":"active","active":["jur-query","review-access","maint-admin"]}
